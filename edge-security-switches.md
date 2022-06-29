@@ -1,5 +1,5 @@
 # Introduction
-This file details all the Microsoft Edge switches that have been modified in my [security guide](https://cutechri.com/#security). Not all of them have an explanation, this section serves mostly as a list of all the changes, in case the commandline is unreadable.
+This file details all the Microsoft Edge switches that have been modified in my [security guide](https://cutechri.xyz). Not all of them have an explanation, this section serves mostly as a list of all the changes, in case the commandline is unreadable.
 
 ## Batch file
 
